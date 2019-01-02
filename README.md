@@ -1,0 +1,2 @@
+# miragebot
+Discord.py bot.
